@@ -1,0 +1,18 @@
+body {
+    color: #ffa895;
+    width: 800px;
+}
+table {
+    width: 800px;
+}
+th, td {
+    padding: 15px 15px 15px 15px;
+}
+th {
+    text-transform: uppercase;
+    letter-spacing: normal;
+    font-size: 90%;
+    border-bottom: 2px solid #2ecc71;
+    border-top: 1px solid #2ecc71;
+    text-align: center;
+}

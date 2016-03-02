@@ -1,0 +1,30 @@
+body {
+    color: #ffa895;
+}
+header {
+    font-family: "Adobe Hebrew";
+    font-size: large;
+    font-weight: 300;
+}
+table {
+    width: 800px;
+}
+tr:hover {
+    background-color: #ffd1d6;
+}
+th, td {
+    padding: 15px 15px 15px 15px;
+}
+th {
+    text-transform: uppercase;
+    letter-spacing: normal;
+    font-size: 90%;
+    border-bottom: 2px solid #2ecc71;
+    border-top: 1px solid #2ecc71;
+    text-align: center;
+}
+
+.container {
+    padding: 40px 40px 40px 40px;
+    background-color: #ffe2bb;
+}
